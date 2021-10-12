@@ -32,4 +32,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/carinagonzalez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="carinagonzalez" /></a></p><br><br>
 
-<a href="https://app.daily.dev/Carina"><img src="https://api.daily.dev/devcards/0f8d03cb1d8745678002f5470c5d33f7.png?r=4f7" width="400" alt="Carina Gonzalez's Dev Card"/></a>
+
