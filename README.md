@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecarinagr5&label=Profile%20views&color=0e75b6&style=flat" alt="ecarinagr5" /> </p>
 
-- 🌱 I’m currently learning **VueJS, NodeJS, ECMA2021**
+- 🌱 I’m currently learning **Svelte, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ecarinagr5](https://github.com/ecarinagr5)
 
